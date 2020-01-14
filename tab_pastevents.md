@@ -17,8 +17,7 @@ tags: czech
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-61600211892).
 
 Slides:<br>
-![Does_Your_IoT_Expose_You.pdf](/slides/Does_Your_IoT_Expose_You.pdf
-"Does_Your_IoT_Expose_You.pdf")<br>
+[Does_Your_IoT_Expose_You.pdf](/slides/Does_Your_IoT_Expose_You.pdf)<br>
 [What if I told you browsers can tell
 servers they don't like the response -
 website](https://exploited.cz/reporting/)<br>
