@@ -2,8 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Czech Republic
-tags: example-tag
-level: 0
+tags: Czech
 
 region: Europe
 
