@@ -29,9 +29,9 @@ Videos: [Vimeo album](https://vimeo.com/album/6106513)
 ### **Feb 12 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-55759551319).
 
-Slides: ![Hacking_101_-_OWASP.pdf](/slides/Hacking_101_-_OWASP.pdf)<br>
-![Black_Market_of_Code_signings_certs.pdf](slides/Black_Market_of_Code_signings_certs.pdf)<br>
-![Getting_Started_with_Bug_Bounty..pdf](/slides/Getting_Started_with_Bug_Bounty.pdf)<br>
+Slides: [Hacking_101_-_OWASP.pdf](/slides/Hacking_101_-_OWASP.pdf)<br>
+[Black_Market_of_Code_signings_certs.pdf](slides/Black_Market_of_Code_signings_certs.pdf)<br>
+[Getting_Started_with_Bug_Bounty..pdf](/slides/Getting_Started_with_Bug_Bounty.pdf)<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/5778636)
 
@@ -39,10 +39,10 @@ Videos: [Vimeo album](https://vimeo.com/album/5778636)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-51529309552#).
 
 Slides:
-![Petr_Stuchlik_The_webhosting_has_no_rights\!.pdf](/slides/Petr_Stuchlik_The_webhosting_has_no_rights!.pdf)<br>
-![Adela_Hanikova_All_roads_lead_to_domain_admin.pdf](/slides/Adela_Hanikova_All_roads_lead_to_domain_admin.pdf)<br>
-![Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf](/slides/Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf)<br>
-![The_Zeitgeist_of_Darknet.pdf](/slides/The_Zeitgeist_of_Darknet.pdf)<br>
+[Petr_Stuchlik_The_webhosting_has_no_rights\!.pdf](/slides/Petr_Stuchlik_The_webhosting_has_no_rights!.pdf)<br>
+[Adela_Hanikova_All_roads_lead_to_domain_admin.pdf](/slides/Adela_Hanikova_All_roads_lead_to_domain_admin.pdf)<br>
+[Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf](/slides/Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf)<br>
+[The_Zeitgeist_of_Darknet.pdf](/slides/The_Zeitgeist_of_Darknet.pdf)<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/5772305)
 
