@@ -9,7 +9,10 @@ region: Europe
 auto-migrated: 1
 
 ---
-
+<!-- custom stuff -->
+OWASP Czech
+-------------
+Welcome to OWASP Czech Republic page!
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
