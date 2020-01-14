@@ -10,6 +10,7 @@ auto-migrated: 1
 
 ---
 <!-- custom stuff -->
+
 OWASP Czech
 -------------
 Welcome to OWASP Czech Republic page! Please check this page from time to time because we release news here. You can learn about upcoming events as well as find presentations and videos from previous chapter meetings. Chapter leaders are:
