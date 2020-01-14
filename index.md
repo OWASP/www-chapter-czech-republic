@@ -23,7 +23,7 @@ Our Sponsors
 -------------
 We would like to kindly thank following companies for supporting us:
 * [ESET](https://www.eset.com/cz/)
-* [ESET](https://www2.deloitte.com/cz/cs.html)
+* [Deloitte](https://www2.deloitte.com/cz/cs.html)
 
 Upcoming Events
 ---------------
