@@ -26,35 +26,28 @@ We Know Where You Are - TBA<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/6106513)
 
-**Feb 12 2019** See the schedule [Official
-schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-55759551319).
+### **Feb 12 2019**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-55759551319).
 
-Slides: ![Hacking_101_-_OWASP.pdf](Hacking_101_-_OWASP.pdf
-"Hacking_101_-_OWASP.pdf"),
-![Black_Market_of_Code_signings_certs.pdf](Black_Market_of_Code_signings_certs.pdf
-"Black_Market_of_Code_signings_certs.pdf"),
-![Getting_Started_with_Bug_Bounty..pdf](Getting_Started_with_Bug_Bounty..pdf
-"Getting_Started_with_Bug_Bounty..pdf")
+Slides: ![Hacking_101_-_OWASP.pdf](/slides/Hacking_101_-_OWASP.pdf)<br>
+![Black_Market_of_Code_signings_certs.pdf](slides/Black_Market_of_Code_signings_certs.pdf)<br>
+![Getting_Started_with_Bug_Bounty..pdf](/slides/Getting_Started_with_Bug_Bounty.pdf)<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/5778636)
 
-**Nov 14 2018** See the schedule [Official
-schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-51529309552#).
+### **Nov 14 2018**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-51529309552#).
 
 Slides:
-![Petr_Stuchlik_The_webhosting_has_no_rights\!.pdf](Petr_Stuchlik_The_webhosting_has_no_rights!.pdf
-"Petr_Stuchlik_The_webhosting_has_no_rights!.pdf"),
-![Adela_Hanikova_All_roads_lead_to_domain_admin.pdf](Adela_Hanikova_All_roads_lead_to_domain_admin.pdf
-"Adela_Hanikova_All_roads_lead_to_domain_admin.pdf"),
-![Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf](Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf
-"Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf"),
-![The_Zeitgeist_of_Darknet.pdf](The_Zeitgeist_of_Darknet.pdf
-"The_Zeitgeist_of_Darknet.pdf")
+![Petr_Stuchlik_The_webhosting_has_no_rights\!.pdf](/slides/Petr_Stuchlik_The_webhosting_has_no_rights!.pdf)<br>
+![Adela_Hanikova_All_roads_lead_to_domain_admin.pdf](/slides/Adela_Hanikova_All_roads_lead_to_domain_admin.pdf)<br>
+![Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf](/slides/Frantisek_Strasak_Detecting_malware_even_when_it_is_encrypted.pdf)<br>
+![The_Zeitgeist_of_Darknet.pdf](/slides/The_Zeitgeist_of_Darknet.pdf)<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/5772305)
 
-**May 30 2017** See the schedule [Official
-schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-33997427220#).
+### **May 30 2017**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-33997427220#).
 
-**Dec 7 2015** See the schedule [Official
-schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-tickets-19677355500).
+### **Dec 7 2015**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-tickets-19677355500).
