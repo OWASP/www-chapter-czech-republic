@@ -18,15 +18,10 @@ See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-ch
 
 Slides:<br>
 [Does_Your_IoT_Expose_You.pdf](/slides/Does_Your_IoT_Expose_You.pdf)<br>
-[What if I told you browsers can tell
-servers they don't like the response -
-website](https://exploited.cz/reporting/)<br>
+[What if I told you browsers can tell servers they don't like the response - website](https://exploited.cz/reporting/)<br>
 We Know Where You Are - TBA<br>
-![The_Messaging_Menagerie.pdf](/slides/The_Messaging_Menagerie.pdf
-"The_Messaging_Menagerie.pdf") or [animated
-version](https://bit.ly/30vR2ip)<br>
-![Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf](/slides/Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf
-"Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf")<br>
+[The_Messaging_Menagerie.pdf](/slides/The_Messaging_Menagerie.pdf) or [animated version](https://bit.ly/30vR2ip)<br>
+[Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf](/slides/Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf)<br>
 [Why usual pentests suck?](https://zembered.com/owasp-talk-why-pentests-suck-and-red-teaming/)<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/6106513)
