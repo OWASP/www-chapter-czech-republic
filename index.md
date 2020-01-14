@@ -18,6 +18,18 @@ Welcome to OWASP Czech Republic page! Please check this page from time to time b
 * [Daniel Macs](mailto:daniel.macs@owasp.org)
 * [Jan Masarik](mailto:jan.masarik@owasp.org)
 
+Feel free to watch us on [Twitter](https://twitter.com/owasp_czech). We also publish tickets via  [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974).
+Our Sponsors
+-------------
+We would like to kindly thank following companies for supporting us:
+* [ESET](https://www.eset.com/cz/)
+* [ESET](https://www2.deloitte.com/cz/cs.html)
+
+Upcoming Events
+---------------
+Next meeting will be held in Brno, the date will be announced soon so stay tuned!
+
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
