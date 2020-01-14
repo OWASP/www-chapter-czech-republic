@@ -12,7 +12,10 @@ auto-migrated: 1
 <!-- custom stuff -->
 OWASP Czech
 -------------
-Welcome to OWASP Czech Republic page! Please check this page from time to time because we release news here. You can learn about upcoming events as well as find presentations and videos from previous chapter meetings.
+Welcome to OWASP Czech Republic page! Please check this page from time to time because we release news here. You can learn about upcoming events as well as find presentations and videos from previous chapter meetings. Chapter leaders are:
+* [Jan Kopecky](mailto:jan.kopecky@owasp.org)
+* [Daniel Macs](mailto:daniel.macs@owasp.org)
+* [Jan Masarik](mailto:jan.masarik@owasp.org)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
