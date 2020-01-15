@@ -13,6 +13,17 @@ tags: czech
 
 <hr>
 
+### **Dec 11 2019**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-83052487225).
+
+Slides:<br>
+[Automating bug bounty](https://masarik.sh/s/automating-bug-bounty)<br>
+[An introduction to the router exploit kits](https://vavkamil.cz/wp-content/uploads/2019/12/an-introduction-to-the-router-exploit-kits.pdf)<br>
+[Budget Phishing 101](Budget_Phishing_101_-_Petr_Pospisil.zip)<br>
+
+Videos: [Vimeo album](https://vimeo.com/album/6694734)
+
+
 ### **Oct 31 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237).
 
