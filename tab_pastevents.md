@@ -13,6 +13,19 @@ tags: czech
 
 <hr>
 
+### **Oct 31 2019**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237).
+
+Slides:<br>
+[An Infosec Timeline - Noteworthy Events from 1970 to 2050](/slides/An_Infosec_Timeline_-_Noteworthy_Events_from_1970_to_2050.pdf)<br>
+[Fantastic Attacks and How Kalipso can find them](/slides/Fantastic_Attacks_and_How_Kalipso_can_find_them.pdf)<br>
+[Ludus project - Make honeypots great again!](/slides/Ludus_project_-_Make_honeypots_great_again.pdf)<br>
+[Puppeteer for Evil Minds](/slides/Puppeteer_for_Evil_Minds.pdf)<br>
+[When A Password Is Not Enough - Developing A New Way Of Protecting Smart Homes](/slides/When_A_Password_Is_Not_Enough_-_Developing_A_New_Way_Of_Protecting_Smart_Homes.pdf)<br>
+
+Videos: [Vimeo album](https://vimeo.com/album/6694666)
+
+
 ### **May 21 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-61600211892).
 
