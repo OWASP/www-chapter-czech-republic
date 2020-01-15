@@ -29,7 +29,8 @@ Videos: [Vimeo album](https://vimeo.com/album/6106513)
 ### **Feb 12 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-55759551319).
 
-Slides: [Hacking_101_-_OWASP.pdf](/slides/Hacking_101_-_OWASP.pdf)<br>
+Slides:<br>
+[Hacking_101_-_OWASP.pdf](/slides/Hacking_101_-_OWASP.pdf)<br>
 [Black_Market_of_Code_signings_certs.pdf](slides/Black_Market_of_Code_signings_certs.pdf)<br>
 [Getting_Started_with_Bug_Bounty..pdf](/slides/Getting_Started_with_Bug_Bounty.pdf)<br>
 
