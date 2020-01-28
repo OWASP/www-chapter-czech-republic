@@ -16,6 +16,9 @@ Welcome to OWASP Czech Republic page! Please check this page from time to time b
 * [Daniel Macs](mailto:daniel.macs@owasp.org)
 * [Jan Masarik](mailto:jan.masarik@owasp.org)
 
+Call For Papers
+----------------
+Our CFP is always open. We love to give you an opportunity to speak at our local Czech Republic chapter meetings. Do you have any interesting topic to speak about? Just send description of your talk to any CZ chapter leader (addresses above) and we will reach back to you.
 
 Our Sponsors
 -----------
