@@ -7,18 +7,25 @@ level: 3
 region: Europe
 
 ---
-<!-- custom stuff -->
+
+Upcoming Events
+---------------
+We announce events via our [official Twitter](https://twitter.com/owasp_czech) and publish them on our [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974) where you need to register (your emails stay private).
+- Brno, 31st March (eventbrite and speakers TBA!)
+- Prague, 21st May (eventbrite and speakers TBA!)
 
 OWASP Czech Republic
 --------------------
-Welcome to OWASP Czech Republic page! Please check this page from time to time because we release news here. You can learn about upcoming events as well as find presentations and videos from previous chapter meetings. Feel free to watch us on [Twitter](https://twitter.com/owasp_czech). We also publish tickets via  [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974). Chapter leaders are:
+Welcome to OWASP Czech Republic page! This is the place to go when you want learn about upcoming events, sponzoring, CFP, or to find presentations and videos from previous chapter meetings (Past Events tab). To stay in touch with the very latest news, don't forget to follow our [Official Twitter](https://twitter.com/owasp_czech)!
+
+Chapter leaders are:
 * [Jan Kopecky](mailto:jan.kopecky@owasp.org)
 * [Daniel Macs](mailto:daniel.macs@owasp.org)
 * [Jan Masarik](mailto:jan.masarik@owasp.org)
 
-Call For Papers
+Call for Papers
 ----------------
-Our CFP is always open. We love to give you an opportunity to speak at our local Czech Republic chapter meetings. Do you have any interesting topic to speak about? Just send description of your talk to any CZ chapter leader (addresses above) and we will reach back to you.
+Our CFP is always open. We love to give you an opportunity to speak at our local Czech Republic chapter meetings. Do you have any interesting topic to speak about? Don't hesitate and send the description of your talk to our [official Twitter account](https://twitter.com/owasp_czech) or by email to any of the Czech Chapter Leaders (email addresses above), and we will reach back to you.
 
 OWASP beers
 -----------
@@ -33,9 +40,6 @@ Our Sponsors
 We would like to kindly thank following companies for supporting us:
 * [ESET](https://www.eset.com/cz/)
 * [Deloitte](https://www2.deloitte.com/cz/cs.html)
-* [Kiwi](https://www.kiwi.com/)
+* [Kiwi.com](https://code.kiwi.com/)
 
-Upcoming Events
----------------
-Next meeting will be held in Brno, the date will be announced soon so stay tuned!
-
+As we want to keep the pace of 4 events a year, often with [top notch foreign speakers](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237), we're always looking for new sponsors. In case you would be interested to talk about details, please reach out to us via official emails mentioned above.
