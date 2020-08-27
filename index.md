@@ -10,7 +10,7 @@ region: Europe
 
 Upcoming Events
 ---------------
-Next Czech Republic Chapter Meeting will happen on 10th of September. You can get your free tickets here: https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-97139953215
+Next Czech Republic Chapter Meeting will happen on 10th of September. You can get your free tickets on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-97139953215) 
 
 We announce events via our [official Twitter](https://twitter.com/owasp_czech) and publish them on our [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974) where you need to register (your emails stay private).
 
