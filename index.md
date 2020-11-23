@@ -10,6 +10,7 @@ region: Europe
 
 Upcoming Events
 ---------------
+{% include chapter_events.html group=page.meetup-group %}
 Next Czech Republic Chapter Meeting will happen on 1st of December 2020. You can get your free tickets on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-virtual-meeting-registration-129038490599). This is our first online event, we do hope we will see as many of you as Zoom can handle ;)
 
 We announce events via our [official Twitter](https://twitter.com/owasp_czech) and publish them on our [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974) where you need to register (your emails stay private).
