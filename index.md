@@ -10,7 +10,7 @@ region: Europe
 
 Upcoming Events
 ---------------
-Next Czech Republic Chapter Meeting will happen on 10th of September. You can get your free tickets on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-97139953215) 
+Next Czech Republic Chapter Meeting will happen on 1st of December 2021. You can get your free tickets on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-virtual-meeting-registration-129038490599). This is our first online event, we do hope we will see as many of you as Zoom can handle ;)
 
 We announce events via our [official Twitter](https://twitter.com/owasp_czech) and publish them on our [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974) where you need to register (your emails stay private).
 
@@ -41,7 +41,6 @@ Our Sponsors
 -----------
 We would like to kindly thank following companies for supporting us:
 * [ESET](https://www.eset.com/cz/)
-* [Deloitte](https://www2.deloitte.com/cz/cs.html)
 * [Kiwi.com](https://code.kiwi.com/)
 
 As we want to keep the pace of 4 events a year, often with [top notch foreign speakers](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237), we're always looking for new sponsors. In case you would be interested to talk about details, please reach out to us via official emails mentioned above.
