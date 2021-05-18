@@ -38,7 +38,7 @@ There are no talks nor bodget to spent but you will have a chance to talk to sim
 
 No registration is needed to attend but we would appreciate you sensing DM to our Twitter account so we know how many seats we should make a reservation for.
 
-Our Sponsors
+Our Supporters
 -----------
 We would like to kindly thank following companies for supporting us:
 * [ESET](https://www.eset.com/cz/)
