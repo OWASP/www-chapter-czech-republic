@@ -13,6 +13,22 @@ tags: czech
 
 <hr>
 
+### **Dec 1 2020**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-virtual-meeting-registration-129038490599).
+
+Workshop, Speakers, Talks:<br>
+08:00 - 12:00 Practical Mobile App Attacks By Example Workshop by Abraham Aranguren<br>
+12:30 - 13:10 Naughty HttpClient by Fedotkin Zakhar<br>
+13:20 - 14:05 Automating Discovery of Security Issues in Binaries (for Lazy People) by Martin Petran<br>
+14:15 - 15:00 Introduction and example implementation of user authentication to the web application with new FIDO and W3C standard WebAuthn by Radoslav Bodó<br>
+15:10 - 16:00 Security testing Czech e-commerce platforms for online stores & Cookies stealing on Seznam.cz by Marek Tóth<br>
+16:30 - 17:00 So you have a blacklist: Optimizing the Protection of IoT devices by a Scored-Prioritized Aging BlackList by Thomas O’Hara<br>
+17:10 - 17:40 Icarus Project: Testing and Analyzing Internet Censorship Circumvention Solutions by Mohamed Tita<br>
+17:50 - 18:35 Deep dive into LoRa(WAN) RF and Hardware Security by Sébastien Dudek<br>
+18:45 - 19:30 Why letting me break into your organisation will help you protect it by Sarka Pekarova<br>
+
+Videos: Slides and Videos will be published soon!
+
 ### **Dec 11 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-83052487225).
 
