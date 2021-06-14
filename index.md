@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Czech Republic
 tags: czech
-meetup group: owasp-czech-republic-meetup-group
+meetup-group: owasp-czech-republic-meetup-group
 level: 3
 region: Europe
 
