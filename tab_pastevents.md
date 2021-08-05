@@ -27,7 +27,7 @@ Workshop, Speakers, Talks:<br>
 17:50 - 18:35 Deep dive into LoRa(WAN) RF and Hardware Security by Sébastien Dudek<br>
 18:45 - 19:30 Why letting me break into your organisation will help you protect it by Sarka Pekarova<br>
 
-Videos: Slides and Videos will be published soon!
+Videos: https://vimeo.com/showcase/8719467
 
 ### **Dec 11 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-83052487225).
