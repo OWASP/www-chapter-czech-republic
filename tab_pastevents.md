@@ -13,6 +13,16 @@ tags: czech
 
 <hr>
 
+### **Aug 5 2021**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-162360236839).
+
+Talks:<br>
+18:20 - 19:20 How we started Red Team - Jan Kopecky and Marek Jilek<br>
+19:30 - 20:30 You should turn off autofill in your password manager - Marek Tóth<br>
+20:40 - 21:00 I know where you live - Kamil Vavra<br>
+
+Videos: [Vimeo album](https://vimeo.com/showcase/9051278)
+
 ### **Dec 1 2020**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-virtual-meeting-registration-129038490599).
 
@@ -27,7 +37,7 @@ Workshop, Speakers, Talks:<br>
 17:50 - 18:35 Deep dive into LoRa(WAN) RF and Hardware Security by Sébastien Dudek<br>
 18:45 - 19:30 Why letting me break into your organisation will help you protect it by Sarka Pekarova<br>
 
-Videos: https://vimeo.com/showcase/8719467
+Videos: [Vimeo album](https://vimeo.com/showcase/8719467)
 
 ### **Dec 11 2019**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-83052487225).
