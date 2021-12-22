@@ -37,14 +37,15 @@ OWASP beers
 -----------
 In past years we have organized many chapter meetings and created a great community around Czech OWASP. We were looking for a ways how to make it possible for you to meet more often than four times per year. That is why we came up with the idea of OWASP Beers! This event happens every last Thursday in month. It happens in Radegastovna Perón, Praha 5 around 7 PM.
 
-There are no talks nor bodget to spent but you will have a chance to talk to similarly minded people who also love IT security.
+There are no talks, but you will have a chance to talk to similarly minded people who also love IT security.
 
 No registration is needed to attend but we would appreciate you sensing DM to our Twitter account so we know how many seats we should make a reservation for.
 
 Our Supporters
 -----------
 We would like to kindly thank following companies for supporting us:
-* [ESET](https://www.eset.com/cz/)
+* [NN](https://www.nn.cz/)
 * [Kiwi.com](https://code.kiwi.com/)
+* [Livesport.cz](https://www.livesport.cz/)
 
 As we want to keep the pace of 4 events a year, often with [top notch foreign speakers](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237), we're always looking for new sponsors. In case you would be interested to talk about details, please reach out to us via official emails mentioned above.
