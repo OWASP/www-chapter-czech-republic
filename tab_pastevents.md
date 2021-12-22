@@ -13,6 +13,30 @@ tags: czech
 
 <hr>
 
+### **Mar 3 2022**
+Onsite evening event starting at 18:00. Schedule up soon!
+
+Talks:<br>
+TBA - 1 slot still avaiable!
+
+### **Nov 25 2021**
+See the schedule [Official schedule](https://www.meetup.com/owasp-czech-republic-meetup-group/events/281716573/).
+
+Workshops:<br>
+9:00 - 12:00 Jan Kopecký: Fuzzing workshop<br>
+9:00 - 12:00 CTF led by TunaSec.cz<br>
+
+Talks:<br>
+12:00 - 12:15 Opening ceremony with OWASP chapter leaders and announcing winners of the CTF<br>
+12:15 - 13:00 LUNCH TIME!<br>
+13:00 - 13:45 Václav Chlad: I'm you: Caller ID spoofing<br>
+14:00 - 14:45 Filip Holec: Hacking 101<br>
+15:00 - 15:45 Ondřej Bouček: Should I Trust? Exploring New Approaches to Detecting Computational Propaganda<br>
+16:00 - 16:45 Kamil Vávra: WordPress Supply Chain Attack<br>
+17:00 - 17:45 Marek Jílek: Hey Google, give me tons of public calendars! (how I become #1 on H1 in CZ)<br>
+
+Videos: soon!
+
 ### **Aug 5 2021**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-162360236839).
 
