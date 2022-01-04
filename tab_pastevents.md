@@ -35,7 +35,7 @@ Talks:<br>
 16:00 - 16:45 Kamil Vávra: WordPress Supply Chain Attack<br>
 17:00 - 17:45 Marek Jílek: Hey Google, give me tons of public calendars! (how I become #1 on H1 in CZ)<br>
 
-Videos: soon!
+Videos: [Vimeo album](https://vimeo.com/showcase/9153919)
 
 ### **Aug 5 2021**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-162360236839).
