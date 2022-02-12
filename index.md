@@ -46,6 +46,6 @@ Our Supporters
 We would like to kindly thank following companies for supporting us:
 * [NN](https://www.nn.cz/)
 * [Kiwi.com](https://code.kiwi.com/)
-* [Livesport.cz](https://www.livesport.cz/)
+* [Livesport.eu](https://www.livesport.eu/)
 
 As we want to keep the pace of 4 events a year, often with [top notch foreign speakers](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237), we're always looking for new sponsors. In case you would be interested to talk about details, please reach out to us via official emails mentioned above.
