@@ -13,11 +13,17 @@ tags: czech
 
 <hr>
 
-### **Mar 3 2022**
-Onsite evening event starting at 18:00. Schedule up soon!
+### **Apr 5 2022**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-301301901097/).
 
 Talks:<br>
-TBA - 1 slot still avaiable!
+18:45 - 19:00 Opening ceremony with OWASP chapter leaders<br>
+19:00 - 20:00 Compromised Keys - Kamil Vávra<br>
+20:00 - 21:00 Red Team Infrastructure Automation - Andrej Tomči<br>
+21:00 - 21:10 Closing ceremony<br>
+21:10 - XX:XX Networking<br>
+
+Videos: tba...
 
 ### **Nov 25 2021**
 See the schedule [Official schedule](https://www.meetup.com/owasp-czech-republic-meetup-group/events/281716573/).
