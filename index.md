@@ -18,7 +18,7 @@ We are at the moment working on making an onsite event in late June 2022. Please
 
 We announce events via our [official Twitter](https://twitter.com/owasp_czech) and publish them on our [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974) where you need to register (your emails stay private).
 
-
+- [OWASP Brno 30 August 2022](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-406178148777?aff=ebdsoporgprofile)
 
 OWASP Czech Republic
 --------------------
