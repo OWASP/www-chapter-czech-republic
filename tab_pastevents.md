@@ -13,6 +13,14 @@ tags: czech
 
 <hr>
 
+### **Aug 30 2022**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-406178148777?aff=ebdsoporgprofile).
+
+Talks:<br>
+19:00 Doors Opening<br>
+20:00 Lightning talks<br>
+21:00 Networking<br>
+
 ### **Apr 5 2022**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-301301901097/).
 
