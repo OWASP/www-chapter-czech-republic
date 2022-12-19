@@ -11,10 +11,8 @@ region: Europe
 
 Upcoming Events
 ---------------
+We will sum-up this year on the last Thursday - December 29th at the [Radegastovna Perón, Praha 5](https://goo.gl/maps/fJGBMTewYx1n7MpBA) around 7 PM. See you there and do not forget to bring some interesting IT security or Christmas topics to talk about :)
 
-{% include chapter_events.html group=page.meetup-group %}
-
-We announce events via our [official Twitter](https://twitter.com/owasp_czech) and publish them on our [EventBrite](https://www.eventbrite.com/o/czech-chapter-owasp-team-18007457974) where you need to register (your emails stay private).
 
 OWASP Czech Republic
 --------------------
