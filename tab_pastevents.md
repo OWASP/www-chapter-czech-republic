@@ -10,8 +10,8 @@ tags: czech
 ---
 
 ## Past Events
-
 <hr>
+
 ### **Dec 29 2022**
 
 Talks:<br>
