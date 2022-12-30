@@ -12,6 +12,12 @@ tags: czech
 ## Past Events
 
 <hr>
+### **Dec 29 2022**
+
+Talks:<br>
+19:00 Doors Opening at Radegastovna Peron, Prague 5<br>
+20:00 What (not) to do at BlackHat and DefCon - Emkei<br>
+21:00 Networking<br>
 
 ### **Aug 30 2022**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-406178148777?aff=ebdsoporgprofile).
