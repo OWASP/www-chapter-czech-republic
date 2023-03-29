@@ -11,7 +11,7 @@ region: Europe
 
 Upcoming Events
 ---------------
-We are working on a chapter meeting to be hosted in early March. Keep in touch for more information soon and let us know in case you wanna submit a talk.
+We will be holding the OWASP beers on Thursday 30th of March in Radegastovna Perón, Praha 5 around 7 PM. Please DM us on our [Official Twitter] to let us know you are comming :)
 
 
 OWASP Czech Republic
