@@ -11,7 +11,9 @@ region: Europe
 
 Upcoming Events
 ---------------
-We will be holding the OWASP beers on Thursday 30th of March in Radegastovna Perón, Praha 5 around 7 PM. Please DM us on our [Official Twitter](https://twitter.com/owasp_czech) to let us know you are comming :)
+We are working on the chapter meeting which will happen in late afternoon hours on Thursday 11th of May in Prague. More details soon!
+
+We will be holding the OWASP beers on Thursday 27th of April in Radegastovna Perón, Praha 5 around 7 PM. Please DM us on our [Official Twitter](https://twitter.com/owasp_czech) to let us know you are comming :)
 
 
 OWASP Czech Republic
