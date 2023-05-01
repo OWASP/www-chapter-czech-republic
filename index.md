@@ -11,10 +11,7 @@ region: Europe
 
 Upcoming Events
 ---------------
-We are working on the chapter meeting which will happen in late afternoon hours on Thursday 11th of May in Prague. More details soon!
-
-We will be holding the OWASP beers on Thursday 27th of April in Radegastovna Perón, Praha 5 around 7 PM. Please DM us on our [Official Twitter](https://twitter.com/owasp_czech) to let us know you are comming :)
-
+Dear OWASP fellows, It’s our pleasure to inform you that the next local chapter meeting will be held on May 11th 2023 at Ataccama Prague office. Please register on Eventbrite [HERE!](https://www.eventbrite.com/e/628757369217/)
 
 OWASP Czech Republic
 --------------------
