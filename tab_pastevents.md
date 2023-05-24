@@ -11,6 +11,19 @@ tags: czech
 
 ## Past Events
 
+### **May 11 2023**
+See the schedule [Official schedule](https://www.eventbrite.com/e/628757369217/).
+
+Talks:<br>
+17:45 - Doors opening<br>
+18:00 - Opening ceremony with OWASP chapter leaders<br>
+18:15 - Michal Špaček: Trusted Types and DOM XSS<br>
+19:00 - Fedotkin Zakhar: They are dangerous… so better hack this<br>
+20:00 - Marek Tóth: Session Hijacking on web portal Seznam.cz<br>
+21:00 - Announcing winners of the CTF, networking<br>
+
+Videos: tba...
+
 ### **Dec 29 2022**
 
 Talks:<br>
