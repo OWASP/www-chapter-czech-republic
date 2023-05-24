@@ -11,16 +11,18 @@ region: Europe
 
 Upcoming Events
 ---------------
-Dear OWASP fellows, It’s our pleasure to inform you that the next local chapter meeting will be held on May 11th 2023 at Ataccama Prague office. Please register on Eventbrite [HERE!](https://www.eventbrite.com/e/628757369217/)
+Dear OWASP fellows, It’s our pleasure to inform you that the next local chapter meeting will be held on June 22nd 2023 at Živo u Palečka in Brno. Please register on Eventbrite [HERE!](https://www.eventbrite.com/e/642006387387/)
 
 OWASP Czech Republic
 --------------------
 Welcome to OWASP Czech Republic page! This is the place to go when you want learn about upcoming events, sponzoring, CFP, or to find presentations and videos from previous chapter meetings (Past Events tab). To stay in touch with the very latest news, don't forget to follow our [Official Twitter](https://twitter.com/owasp_czech)!
 
 Chapter leaders are:
-* [Jan Kopecky](mailto:jan.kopecky@owasp.org)
-* [Daniel Macs](mailto:daniel.macs@owasp.org)
+* [Jan Kopecký](mailto:jan.kopecky@owasp.org)
+* [Daniel Mács](mailto:daniel.macs@owasp.org)
 * [Jan Masarik](mailto:jan.masarik@owasp.org)
+* [Kamil Vávra](mailto:kamil.vavra@owasp.org)
+* [Martin Klubal](mailto:martin.klubal@owasp.org)
 
 Call for Papers
 ----------------
