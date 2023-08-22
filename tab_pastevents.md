@@ -16,7 +16,7 @@ See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/)
 
 Talks:<br>
 18:00 - Doors open!<br>
-18:30 - Kamil Vavra - Solving CAPTCHAs for Fun<br>
+18:30 - Kamil Vavra - Solving CAPTCHAs for Fun - [slides](https://github.com/vavkamil/owasp-captchas)<br>
 19:30 - Igor Hak - IOT in the home environment more under control<br>
 20:30 - Networking<br>
 23:00 - Doors close<br>
