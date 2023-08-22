@@ -11,18 +11,30 @@ tags: czech
 
 ## Past Events
 
+### **June 22 2023**
+See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/).
+
+Talks:<br>
+18:00 - Doors open!
+18:30 - Kamil Vavra - Solving CAPTCHAs for Fun
+19:30 - Igor Hak - IOT in the home environment more under control
+20:30 - Networking
+23:00 - Doors close
+
+Videos: tba...
+
 ### **May 11 2023**
 See the schedule [Official schedule](https://www.eventbrite.com/e/628757369217/).
 
 Talks:<br>
 17:45 - Doors opening<br>
 18:00 - Opening ceremony with OWASP chapter leaders<br>
-18:15 - Michal Špaček: Trusted Types and DOM XSS<br>
-19:00 - Fedotkin Zakhar: They are dangerous… so better hack this<br>
+18:15 - Michal Špaček: Trusted Types and DOM XSS - [slides](https://www.michalspacek.com/talks/dom-xss-and-trusted-types-owaspcz)<br>
+19:00 - Fedotkin Zakhar: They are dangerous… so better hack this - [slides](https://btlfry.gitlab.io/they-are-dangerous/)<br>
 20:00 - Marek Tóth: Session Hijacking on web portal Seznam.cz<br>
 21:00 - Announcing winners of the CTF, networking<br>
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VL1SWguTEzIJ5msgfQJJaPK)
 
 ### **Dec 29 2022**
 
