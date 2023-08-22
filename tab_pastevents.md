@@ -11,6 +11,18 @@ tags: czech
 
 ## Past Events
 
+### **June 22 2023**
+See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/).
+
+Talks:<br>
+18:00 - Doors open!
+18:30 - Kamil Vavra - Solving CAPTCHAs for Fun
+19:30 - Igor Hak - IOT in the home environment more under control
+20:30 - Networking
+23:00 - Doors close
+
+Videos: tba...
+
 ### **May 11 2023**
 See the schedule [Official schedule](https://www.eventbrite.com/e/628757369217/).
 
