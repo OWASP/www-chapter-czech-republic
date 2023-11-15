@@ -11,7 +11,7 @@ region: Europe
 
 Upcoming Events
 ---------------
-Dear OWASP fellows, It’s our pleasure to inform you that the next local chapter meeting will be held on November 8th 2023 at Živo u Palečka in Brno. Please register on Eventbrite [HERE!](https://www.eventbrite.com/e/747774031257/)
+Dear OWASP fellows, We are preparing the December meeting in Prague. Follow our website or Twitter, where you will find more detailed information very soon.
 
 OWASP Czech Republic
 --------------------
