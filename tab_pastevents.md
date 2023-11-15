@@ -11,6 +11,18 @@ tags: czech
 
 ## Past Events
 
+### **November 8 2023**
+See the schedule [Official schedule](https://www.eventbrite.com/e/747774031257/).
+
+Talks:<br>
+18:00 - Doors open!<br>
+18:30 - Miloslav Homer - What happens when you issue a bounty on your head<br>
+1﻿9:30 - Kamil Vavra - Hacking a Cruise Ship<br>
+20:30 - Networking<br>
+23:00 - Doors close<br>
+
+Videos: tba...
+
 ### **June 22 2023**
 See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/).
 
