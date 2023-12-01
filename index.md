@@ -11,7 +11,7 @@ region: Europe
 
 Upcoming Events
 ---------------
-Dear OWASP fellows, We are preparing the December meeting in Prague. Follow our website or Twitter, where you will find more detailed information very soon.
+Dear OWASP fellows, we look forward to seeing you at the last meeting of this year, specifically on Wednesday, December 13, 2023, from 5:45 PM in the already proven premises of Ataccama Software in Prague. Further information and a registration form for the event can be found [here](https://www.eventbrite.com/e/770129807987/). Come again to listen to professional lectures on the topic of cybersecurity. We are looking forward to seeing you.
 
 OWASP Czech Republic
 --------------------
