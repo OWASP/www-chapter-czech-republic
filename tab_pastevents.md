@@ -11,6 +11,18 @@ tags: czech
 
 ## Past Events
 
+### **December 13 2023**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-770129807987).
+
+Talks:<br>
+17:45 - Doors opening<br>
+18:00 - Opening ceremony with OWASP chapter leaders<br>
+18:15 - Marek Šanta: Locks Beyond Lockpicking<br>
+20:00 - Petr Stuchlík: Domain OSINT at scale<br>
+20:45 - Networking
+
+Videos: tba...
+
 ### **November 8 2023**
 See the schedule [Official schedule](https://www.eventbrite.com/e/747774031257/).
 
