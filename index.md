@@ -5,6 +5,7 @@ title: OWASP Czech Republic
 tags: czech
 meetup-group: owasp-czech-republic-meetup-group
 level: 3
+country: Czech Republic 
 region: Europe
 
 ---
