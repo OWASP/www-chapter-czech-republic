@@ -14,6 +14,13 @@ Upcoming Events
 ---------------
 Dear OWASP fellows, We are working on the meetups schedule for 2024. Once we will have any possible dates We will inform you here and on our [Twitter](https://twitter.com/owasp_czech)!
 
+---
+
+We are happy to announce the next OWASP Czech Chapter meeting in Brno on Tuesday, May 14, 2024.
+
+The new venue at Atlas Copco should ensure more crisp presentations and no background noise.
+Please Sign up here: https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-895497175157
+
 OWASP Czech Republic
 --------------------
 Welcome to the OWASP Czech Republic page! This official page is the place to go when you want to learn about upcoming events, sponsoring, and CFP. Or to find presentations and videos from previous chapter meetings (Past Events tab). To stay in touch with the latest news, follow our [Official Twitter](https://twitter.com/owasp_czech) account!
