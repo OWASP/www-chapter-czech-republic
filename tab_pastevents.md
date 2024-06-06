@@ -11,6 +11,19 @@ tags: czech
 
 ## Past Events
 
+### **May 14 2024**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-895497175157).
+
+Talks:<br>
+18:00 - Doors open!<br>
+18:15 - Opening ceremony with OWASP chapter leaders<br>
+18:30 - Smishing - Hack Back by Václav Chlad<br>
+19:30 - How We Hacked Our Company by Martin Žember and Tomáš Polešovský<br>
+20:45 - Networking<br>
+21:30 - Doors close
+
+Videos: tba...
+
 ### **December 13 2023**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-770129807987).
 
