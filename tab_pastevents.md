@@ -16,7 +16,7 @@ See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-ch
 
 Talks:<br>
 18:00 - Doors open<br>
-18:30 - SAST Essentials by Matej Smycka<br>
+18:30 - SAST Essentials by Matej Smycka - [slides](slides/SAST_Essentials.pdf) & [guides](https://security.muni.cz/en/articles/guide-sast-pipelines)<br>
 19:30 - SSRF Adventures: Chaining Your Way Through the Network by Kamil Vavra<br>
 21:00 - Doors close
 
