@@ -11,6 +11,19 @@ tags: czech
 
 ## Past Events
 
+### **December 19 2024**
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1111384142889).
+
+Talks:<br>
+18:00 - Doors open<br>
+18:25 - Opening ceremony with OWASP chapter leaders<br>
+18:30 - Adéla Haníková: To use or not to use JWT<br>
+19:30 - Marek Jílek: Hey ADCS, gimme DA!<br>
+20:30 - @DartheIncarnate & @abh4t: A corporate how not to [_] - The tales of false sense of security<br>
+22:00 - Doors close
+
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VJV6TiTbDUv6B5EHPdj213W)
+
 ### **November 14 2024**
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1074755475559).
 
