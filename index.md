@@ -12,15 +12,14 @@ region: Europe
 
 Upcoming Events
 ---------------
-Dear OWASP fellows, we are thrilled to invite you to our upcoming OWASP Meetup, which will be hosted at the Livesport office in Prague on December 19th, 2024, starting at 6:00 PM.
+<!--Dear OWASP fellows, we are thrilled to invite you to our upcoming OWASP Meetup, which will be hosted at the Livesport office in Prague on December 19th, 2024, starting at 6:00 PM.
 
 This evening promises to be filled with valuable insights. We’ll feature at least two thought-provoking talks by experts in the field, along with plenty of time for networking and discussions with fellow security enthusiasts.
 
 Further details, including the registration form, are available on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1111384142889). Don’t miss this chance to stay updated and engage with the latest trends in cybersecurity. We look forward to welcoming you there!
-
-<!---
-Dear OWASP fellows, We are working on the meetups schedule for 2024. Once we will have any possible dates We will inform you here and on our [Twitter](https://twitter.com/owasp_czech)!
 -->
+Dear OWASP fellows, We are working on the meetups schedule for 2024. Once we will have any possible dates We will inform you here and on our [Twitter](https://twitter.com/owasp_czech)!
+
 
 OWASP Czech Republic
 --------------------
@@ -49,7 +48,7 @@ Our Supporters
 -----------
 We would like to kindly thank the following companies for supporting us:
 * [NN](https://www.nn.cz/)
-* [Kiwi.com](https://code.kiwi.com/)
-* [Livesport.eu](https://www.livesport.eu/)
+* [TunaSec](https://tunasec.com/)
+* [Livesport](https://www.livesport.eu/)
 
 As we want to keep the pace of 4 events a year, often with [top-notch foreign speakers](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237), we're always looking for new sponsors. If you want to discuss details, please get in touch with us via the official emails above.
