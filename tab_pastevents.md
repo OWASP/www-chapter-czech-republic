@@ -19,7 +19,7 @@ Talks:<br>
 18:25 - Opening ceremony with OWASP chapter leaders<br>
 18:30 - Martin Zember & Tomas Polesovsky: How We Hacked Our Company<br>
 19:30 - Marek Toth: How I Got Free Access To 10,000+ Paid Videos of Czech Content Creators<br>
-20:30 - Stanislav Sivak: Navigating through the open-source security risks<br>
+20:30 - Stanislav Sivak: Navigating through the open-source security risks - [slides](slides/Navigating_through_the_open_source_software_with_caution.pdf)<br>
 21:30 - Networking<br>
 22:00 - Doors close
 
