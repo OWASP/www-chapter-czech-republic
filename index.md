@@ -13,7 +13,7 @@ region: Europe
 Upcoming Events
 ---------------
 
-Dear OWASP fellows, we are thrilled to invite you to our upcoming OWASP Meetup, which will be hosted at the Livesport office in Prague on September 30th, 2025, starting at 6:00 PM.
+Dear OWASP fellows, we are thrilled to invite you to our upcoming OWASP Meetup, which will be hosted at the **Mendel University in Brno on September 30th, 2025, starting at 6:00 PM**.
 
 This evening promises to be filled with valuable insights. We’ll feature at least two thought-provoking talks by experts in the field, along with plenty of time for networking and discussions with fellow security enthusiasts.
 
