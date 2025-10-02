@@ -11,6 +11,18 @@ tags: czech
 
 ## Past Events
 
+### **September 30 2025** (Brno)
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1688425318579)
+
+Talks:<br>
+18:00 - Doors open<br>
+18:30 - Matej Janček - Active Directory Misconfigurations: The Gift That Keeps on Giving - [slides](slides/ad_misconfigurations_owasp.pdf)<br>
+19:30 - Kamil Vávra - Hacking a Pharmacy for Fun and Drugs<br>
+20:30 - Filip Holec - Cybersecurity awareness for everyone<br>
+21:00 - Doors close
+
+Videos: tba...
+
 ### **May 27 2025** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1339881524709)
 
