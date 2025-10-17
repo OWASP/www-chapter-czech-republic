@@ -1,0 +1,32 @@
+leaders:
+  - name: Daniel Macs
+    email: daniel.macs@owasp.org
+    github: macsdani
+  - name: Jan Kopecky
+    email: jan.kopecky@owasp.org
+  - name: Jan Masarik
+    email: jan.masarik@owasp.org
+    github: janmasarik
+  - name: Martin Klubal
+    email: martin.klubal@owasp.org
+    github: martinklubal
+  - name: Kamil Vavra
+    email: kamil.vavra@owasp.org
+    github: vavkamil
+location:
+  country: Czech Republic
+  country_code: CZ
+  region: Europe
+  latitude: 49.7439047
+  longitude: 15.3381061
+meetup_group: owasp-czech-republic-meetup-group
+name: OWASP Czech Republic
+repositories:
+  - name: www-chapter-czech-republic
+    url: https://github.com/OWASP/www-chapter-czech-republic
+    description: OWASP Foundation Web Repository
+tags:
+  - czech
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-czech-republic
