@@ -1,7 +1,10 @@
 version: 2
 updates:
-  - package-ecosystem: github-actions
-    directory: /
+  - package-ecosystem: "github-actions"
+    directory: "/"
     schedule:
-      interval: weekly
-      time: '00:45'
+      interval: "monthly"
+      time: "09:00"
+      timezone: "Europe/Prague"
+    cooldown:
+      default-days: 7
