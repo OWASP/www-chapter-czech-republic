@@ -12,14 +12,15 @@ region: Europe
 
 Upcoming Events
 ---------------
-<!--
-Dear OWASP fellows, we are thrilled to invite you to our upcoming OWASP Meetup, which will be hosted at the **Mendel University in Brno on September 30th, 2025, starting at 6:00 PM**.
+
+Dear OWASP fellows, we are thrilled to invite you to our upcoming OWASP Meetup, which will be hosted at the **Livesport office in Prague on December 4th, 2025, starting at 6:00 PM**.
 
 This evening promises to be filled with valuable insights. We’ll feature at least two thought-provoking talks by experts in the field, along with plenty of time for networking and discussions with fellow security enthusiasts.
 
-Further details, including the registration form, are available on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1688425318579). Don’t miss this chance to stay updated and engage with the latest trends in cybersecurity. We look forward to welcoming you there!
--->
+Further details, including the registration form, are available on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1971480604559). Don’t miss this chance to stay updated and engage with the latest trends in cybersecurity. We look forward to welcoming you there!
+<!--
 Dear OWASP fellows, We are working on the meetups schedule for 2025. Once we will have any possible dates We will inform you here and on our [Twitter](https://twitter.com/owasp_czech)!
+-->
 
 OWASP Czech Republic
 --------------------
