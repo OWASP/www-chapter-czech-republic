@@ -19,7 +19,7 @@ Talks:<br>
 18:25 - Opening ceremony with OWASP chapter leaders<br>
 18:30 - Matěj Mrkus - My first critical: How I hacked NASA at 16<br>
 18:45 - Adéla Haníková - How to open an account under someone else’s identity?<br>
-20:00 - Eliška Krátká - Quantum Machine Learning Methods for Malware Detection - [slides](#slides/TODO.pdf)<br>
+20:00 - Eliška Krátká - Quantum Machine Learning Methods for Malware Detection - [slides](slides/quantum_machine_malware.pdf)<br>
 21:30 - Doors close
 
 Videos: tba...
