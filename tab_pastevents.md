@@ -11,6 +11,19 @@ tags: czech
 
 ## Past Events
 
+### **December 04 2025** (Prague)
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1971480604559)
+
+Talks:<br>
+18:00 - Doors open<br>
+18:25 - Opening ceremony with OWASP chapter leaders<br>
+18:30 - Matěj Mrkus - My first critical: How I hacked NASA at 16<br>
+18:45 - Adéla Haníková - How to open an account under someone else’s identity?<br>
+20:00 - Eliška Krátká - Quantum Machine Learning Methods for Malware Detection - [slides](#slides/TODO.pdf)<br>
+21:30 - Doors close
+
+Videos: tba...
+
 ### **September 30 2025** (Brno)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1688425318579)
 
