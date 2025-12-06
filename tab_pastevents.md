@@ -19,10 +19,10 @@ Talks:<br>
 18:25 - Opening ceremony with OWASP chapter leaders<br>
 18:30 - Matěj Mrkus - My first critical: How I hacked NASA at 16<br>
 18:45 - Adéla Haníková - How to open an account under someone else’s identity?<br>
-20:00 - Eliška Krátká - Quantum Machine Learning Methods for Malware Detection - [slides](slides/quantum_machine_malware.pdf)<br>
+20:00 - Eliška Krátká - Quantum Machine Learning Methods for Malware Detection - [Slides](slides/quantum_machine_malware.pdf)<br>
 21:30 - Doors close
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VJK4OLWkmrjXpdOHl1R4gCM)
 
 ### **September 30 2025** (Brno)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1688425318579)
@@ -48,7 +48,7 @@ Talks:<br>
 21:30 - Networking<br>
 22:00 - Doors close
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VIqMjy5FxIROFry8RxL-MV0)
 
 ### **December 19 2024** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1111384142889).
