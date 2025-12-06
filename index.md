@@ -20,7 +20,7 @@ This evening promises to be filled with valuable insights. We’ll feature at le
 
 Further details, including the registration form, are available on [Eventbrite](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1971480604559). Don’t miss this chance to stay updated and engage with the latest trends in cybersecurity. We look forward to welcoming you there!
 -->
-Dear OWASP fellows, We are working on the meetups schedule for 2025. Once we will have any possible dates We will inform you here and on our [Twitter](https://twitter.com/owasp_czech)!
+Dear OWASP fellows, We are working on the meetups schedule for 2026. Once we will have any possible dates We will inform you here and on our [Twitter](https://twitter.com/owasp_czech)!
 
 OWASP Czech Republic
 --------------------
