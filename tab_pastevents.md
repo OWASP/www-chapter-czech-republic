@@ -34,7 +34,7 @@ Talks:<br>
 20:30 - Filip Holec - Cybersecurity awareness for everyone<br>
 21:00 - Doors close
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VJqlRwPBuYHzgZaBBUcYuU0)
 
 ### **May 27 2025** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1339881524709)
@@ -72,7 +72,7 @@ Talks:<br>
 19:30 - SSRF Adventures: Chaining Your Way Through the Network by Kamil Vavra<br>
 21:00 - Doors close
 
-Videos: tba...
+Videos: N/A
 
 ### **May 14 2024** (Brno)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-895497175157).
@@ -85,7 +85,7 @@ Talks:<br>
 20:45 - Networking<br>
 21:30 - Doors close
 
-Videos: tba...
+Videos: N/A
 
 ### **December 13 2023** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-770129807987).
@@ -97,7 +97,7 @@ Talks:<br>
 20:00 - Petr Stuchlík: Domain OSINT at scale<br>
 20:45 - Networking
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VKH4M7j-Na3egrieyadTdS9)
 
 ### **November 8 2023** (Brno)
 See the schedule [Official schedule](https://www.eventbrite.com/e/747774031257/).
@@ -109,7 +109,7 @@ Talks:<br>
 20:30 - Networking<br>
 23:00 - Doors close<br>
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VIdm765jzx_oycoey9NnBlU)
 
 ### **June 22 2023** (Brno)
 See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/).
@@ -121,7 +121,7 @@ Talks:<br>
 20:30 - Networking<br>
 23:00 - Doors close<br>
 
-Videos: tba...
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VK7XBLHQiXIT_Feiitev1d5)
 
 ### **May 11 2023** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/628757369217/).
@@ -161,7 +161,7 @@ Talks:<br>
 21:00 - 21:10 Closing ceremony<br>
 21:10 - XX:XX Networking<br>
 
-Videos: tba...
+Videos: N/A
 
 ### **Nov 25 2021** (Prague)
 See the schedule [Official schedule](https://www.meetup.com/owasp-czech-republic-meetup-group/events/281716573/).
@@ -237,7 +237,7 @@ See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-ch
 Slides:<br>
 [Does_Your_IoT_Expose_You.pdf](slides/Does_Your_IoT_Expose_You.pdf)<br>
 [What if I told you browsers can tell servers they don't like the response - website](https://exploited.cz/reporting/)<br>
-We Know Where You Are - TBA<br>
+We Know Where You Are - N/A<br>
 [The_Messaging_Menagerie.pdf](slides/The_Messaging_Menagerie.pdf) or [animated version](https://bit.ly/30vR2ip)<br>
 [Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf](slides/Cybercriminal_Activities_Managing_a_New_Android_Botnet.pdf)<br>
 [Why usual pentests suck?](https://zembered.com/owasp-talk-why-pentests-suck-and-red-teaming/)<br>
