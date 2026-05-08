@@ -51,7 +51,7 @@ Talks:<br>
 Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VIqMjy5FxIROFry8RxL-MV0)
 
 ### **December 19 2024** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1111384142889).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1111384142889)
 
 Talks:<br>
 18:00 - Doors open<br>
@@ -64,7 +64,7 @@ Talks:<br>
 Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VJV6TiTbDUv6B5EHPdj213W)
 
 ### **November 14 2024** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1074755475559).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1074755475559)
 
 Talks:<br>
 18:00 - Doors open<br>
@@ -75,7 +75,7 @@ Talks:<br>
 Videos: N/A
 
 ### **May 14 2024** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-895497175157).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-895497175157)
 
 Talks:<br>
 18:00 - Doors open!<br>
@@ -88,7 +88,7 @@ Talks:<br>
 Videos: N/A
 
 ### **December 13 2023** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-770129807987).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-770129807987)
 
 Talks:<br>
 17:45 - Doors opening<br>
@@ -100,7 +100,7 @@ Talks:<br>
 Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VKH4M7j-Na3egrieyadTdS9)
 
 ### **November 8 2023** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/747774031257/).
+See the schedule [Official schedule](https://www.eventbrite.com/e/747774031257/)
 
 Talks:<br>
 18:00 - Doors open!<br>
@@ -112,7 +112,7 @@ Talks:<br>
 Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VIdm765jzx_oycoey9NnBlU)
 
 ### **June 22 2023** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/).
+See the schedule [Official schedule](https://www.eventbrite.com/e/642006387387/)
 
 Talks:<br>
 18:00 - Doors open!<br>
@@ -124,7 +124,7 @@ Talks:<br>
 Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLSZXLJ4A25VK7XBLHQiXIT_Feiitev1d5)
 
 ### **May 11 2023** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/628757369217/).
+See the schedule [Official schedule](https://www.eventbrite.com/e/628757369217/)
 
 Talks:<br>
 17:45 - Doors opening<br>
@@ -144,7 +144,7 @@ Talks:<br>
 21:00 Networking<br>
 
 ### **Aug 30 2022** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-406178148777?aff=ebdsoporgprofile).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-406178148777?aff=ebdsoporgprofile)
 
 Talks:<br>
 19:00 Doors Opening<br>
@@ -152,7 +152,7 @@ Talks:<br>
 21:00 Networking<br>
 
 ### **Apr 5 2022** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-301301901097/).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-301301901097/)
 
 Talks:<br>
 18:45 - 19:00 Opening ceremony with OWASP chapter leaders<br>
@@ -164,7 +164,7 @@ Talks:<br>
 Videos: N/A
 
 ### **Nov 25 2021** (Prague)
-See the schedule [Official schedule](https://www.meetup.com/owasp-czech-republic-meetup-group/events/281716573/).
+See the schedule [Official schedule](https://www.meetup.com/owasp-czech-republic-meetup-group/events/281716573/)
 
 Workshops:<br>
 9:00 - 12:00 Jan Kopecký: Fuzzing workshop<br>
@@ -182,7 +182,7 @@ Talks:<br>
 Videos: [Vimeo album](https://vimeo.com/showcase/9153919)
 
 ### **Aug 5 2021** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-162360236839).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-162360236839)
 
 Talks:<br>
 18:20 - 19:20 How we started Red Team - Jan Kopecky and Marek Jilek<br>
@@ -192,7 +192,7 @@ Talks:<br>
 Videos: [Vimeo album](https://vimeo.com/showcase/9051278)
 
 ### **Dec 1 2020** (Virtual)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-virtual-meeting-registration-129038490599).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-virtual-meeting-registration-129038490599)
 
 Workshop, Speakers, Talks:<br>
 08:00 - 12:00 Practical Mobile App Attacks By Example Workshop by Abraham Aranguren<br>
@@ -208,7 +208,7 @@ Workshop, Speakers, Talks:<br>
 Videos: [Vimeo album](https://vimeo.com/showcase/8719467)
 
 ### **Dec 11 2019** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-83052487225).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-83052487225)
 
 Slides:<br>
 [Automating bug bounty](https://masarik.sh/s/automating-bug-bounty)<br>
@@ -219,7 +219,7 @@ Videos: [Vimeo album](https://vimeo.com/album/6694734)
 
 
 ### **Oct 31 2019** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-74841933237)
 
 Slides:<br>
 [An Infosec Timeline - Noteworthy Events from 1970 to 2050](slides/An_Infosec_Timeline_-_Noteworthy_Events_from_1970_to_2050.pdf)<br>
@@ -232,7 +232,7 @@ Videos: [Vimeo album](https://vimeo.com/album/6694666)
 
 
 ### **May 21 2019** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-61600211892).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-61600211892)
 
 Slides:<br>
 [Does_Your_IoT_Expose_You.pdf](slides/Does_Your_IoT_Expose_You.pdf)<br>
@@ -245,17 +245,17 @@ We Know Where You Are - N/A<br>
 Videos: [Vimeo album](https://vimeo.com/album/6106513)
 
 ### **Feb 12 2019** (Brno)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-55759551319).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-55759551319)
 
 Slides:<br>
 [Hacking_101.pdf](slides/Hacking_101.pdf)<br>
 [Black_Market_of_Code_signings_certs.pdf](slides/Black_Market_of_Code_signings_certs.pdf)<br>
-[Getting_Started_with_Bug_Bounty..pdf](slides/Getting_Started_with_Bug_Bounty.pdf)<br>
+[Getting_Started_with_Bug_Bounty.pdf](slides/Getting_Started_with_Bug_Bounty.pdf)<br>
 
 Videos: [Vimeo album](https://vimeo.com/album/5778636)
 
 ### **Nov 14 2018** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-51529309552#).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-51529309552#)
 
 Slides:
 [Petr_Stuchlik_The_webhosting_has_no_rights\!.pdf](slides/Petr_Stuchlik_The_webhosting_has_no_rights!.pdf)<br>
@@ -266,7 +266,7 @@ Slides:
 Videos: [Vimeo album](https://vimeo.com/album/5772305)
 
 ### **May 30 2017** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-33997427220#).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-33997427220#)
 
 ### **Dec 7 2015** (Prague)
-See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-tickets-19677355500).
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-tickets-19677355500)
