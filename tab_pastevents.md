@@ -11,6 +11,17 @@ tags: czech
 
 ## Past Events
 
+### **June 30 2026** (Brno)
+See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1992242468854)
+
+Talks:<br>
+18:00 - Doors open<br>
+18:30 - Miloslav Homer - JA3/JA4+ hashes: A "Secret" Fingerprint Identifying Bots and Scrapers<br>
+19:30 - Andrej Tomci - LLMs for vulnerability research: building (and operating) a personal AI bug-hunting harness<br>
+21:00 - Doors close
+
+Videos: TBA
+
 ### **December 04 2025** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1971480604559)
 
