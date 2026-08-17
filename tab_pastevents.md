@@ -20,7 +20,7 @@ Talks:<br>
 19:30 - Andrej Tomci - LLMs for vulnerability research: building (and operating) a personal AI bug-hunting harness - [slides](slides/llms_vuln_research.pdf)<br>
 21:00 - Doors close
 
-Videos: TBA
+Videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLUCm8B7NBVb0)
 
 ### **December 04 2025** (Prague)
 See the schedule [Official schedule](https://www.eventbrite.com/e/owasp-czech-chapter-meeting-registration-1971480604559)
